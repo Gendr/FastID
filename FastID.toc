@@ -1,0 +1,22 @@
+﻿## Interface: 80100
+## Title: FastID
+## Notes: View and export character items.
+## Notes-deDE: View and export character items.
+## Notes-esES: View and export character items.
+## Notes-esMX: View and export character items.
+## Notes-frFR: View and export character items.
+## Notes-itIT: View and export character items.
+## Notes-koKR: View and export character items.
+## Notes-ptBR: View and export character items.
+## Notes-ruRU: View and export character items.
+## Notes-zhCN: View and export character items.
+## Notes-zhTW: View and export character items.
+## Author: Gendr
+## Version: 1.2
+
+## X-Category: Bags & Inventory
+## X-Website: https://github.com/Gendr/FastID
+## X-Curse-Project-ID: 42242
+## X-WoWI-ID: 21354
+
+FastID.lua
