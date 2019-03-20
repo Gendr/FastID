@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="FASTID_TOGGLE_WINDOW" header="FASTID" category ="FastID ">
+		ToggleWindow()
+	</Binding>
+</Bindings>
